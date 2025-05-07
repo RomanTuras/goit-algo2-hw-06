@@ -1,2 +1,5 @@
 # goit-algo2-hw-06
-Algorithms
+
+---
+## HW task:
+`python task_1.py`
